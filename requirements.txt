@@ -1,0 +1,26 @@
+# Core
+python-dotenv==1.0.1        # Load environment variables, including API keys
+requests==2.31.0             # Make HTTP requests to Gemini API
+pandas==2.1.0                # Optional, for data handling if needed
+
+# Nano Banana / Gemini API
+google-api-python-client==2.89.0  # Google APIs client
+google-auth==2.23.0               # For authenticating with API key or OAuth
+
+# Image/Video Processing
+Pillow==10.1.0              # Image manipulation
+opencv-python==4.9.0.76     # Video processing
+moviepy==2.0.0              # Video editing
+
+# Optional - For animation or scene stitching
+numpy==1.26.2
+scipy==1.12.1
+
+# Environment / Utilities
+flask==3.0.3                # Optional, if you want a web demo
+uvicorn==0.24.0             # Optional, for serving API
+
+# Text / Audio (if adding narration)
+gTTS==2.3.2                 # Convert text to speech
+playsound==1.3.0             # Play audio locally
+pydub==0.25.1               # Audio manipulation
