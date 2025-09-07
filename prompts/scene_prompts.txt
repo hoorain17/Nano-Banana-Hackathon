@@ -1,3 +1,132 @@
-Scene 1: A 3-year-old Pakistani village girl with black hair in bright shalwar kameez playing with a small light brown goat in green wheat fields, sunny morning, cinematic, joyful interaction, soft focus, realistic rural Pakistan village, sudden flash flood hits, dramatic lighting, emotional scene.
+🎬 DisasterGuard Storyboard Script
+Scene 1 – The Bond & Tragedy
 
-Scene 2: The same 3-year-old Pakistani village girl with black hair, wearing the same bright shalwar kameez, playing with her small light brown goat with a white spot on its forehead. Her father is holding a smartphone showing the DisasterGuard flood alert. The family and other villagers are evacuating to a safe hill as flood waters rise. Warm sunlight breaks through clouds, cinematic lighting, emotional relief on their faces, realistic rural Pakistani village setting, heartwarming and hopeful storytelling, maintaining the visual appearance of the girl and goat from Scene 1.
+Shot 1:
+Duration: 3s
+Angle / Action: Low angle, close-up
+Visual: 3-year-old girl crawling barefoot in green field
+Mood: Innocence, playfulness
+Veo3 Prompt:
+“Close-up of a little village girl crawling barefoot in a green field, soft warm sunlight, playful and innocent, cinematic and realistic style”
+
+Shot 2:
+Duration: 4s
+Angle / Action: Wide shot
+Visual: Girl throws stick, goat jumps to catch it
+Mood: Joy, bond
+Veo3 Prompt:
+“Wide shot of a small girl playing with a baby goat, goat jumping happily to catch a stick, joyful interaction, warm sunlight, rural village, cinematic style”
+
+Shot 3:
+Duration: 3s
+Angle / Action: Close-up
+Visual: Girl cuddling goat, goat nuzzling back
+Mood: Love, deep bond
+Veo3 Prompt:
+“Close-up of toddler girl hugging her baby goat, goat nuzzling affectionately, emotional and heartwarming, cinematic lighting”
+
+Shot 4:
+Duration: 2s
+Angle / Action: Medium shot
+Visual: Sky darkens, clouds forming
+Mood: Foreshadowing, tension
+Veo3 Prompt:
+“Medium shot of cloudy sky forming over a small rural village, subtle winds, suspenseful mood, cinematic tone”
+
+Shot 5:
+Duration: 5s
+Angle / Action: Wide shot, slow-motion
+Visual: Stream swells suddenly, goat slips
+Mood: Shock, danger
+Veo3 Prompt:
+“Wide shot of sudden village floodwaters rushing, baby goat slipping into the stream, girl running, slow-motion, cinematic dramatic style”
+
+Shot 6
+Duration: 4s
+Angle / Action: Split-screen
+Visual: Girl in one current, goat in another
+Mood: Heartbreak, fear
+Veo3 Prompt:
+“Split-screen cinematic illustration of toddler girl swept in floodwaters on one side and baby goat in another current, separated, dramatic slow-motion, emotional tone”
+
+Shot 7:
+Duration: 3s
+Angle / Action: Close-up
+Visual: Girl screaming, reaching out
+Mood: Desperation
+Veo3 Prompt:
+“Close-up of crying toddler girl reaching out desperately in rushing floodwaters, emotional and dramatic, cinematic lighting”
+
+Shot 8:
+Duration: 2s
+Angle / Action: Fade out
+Visual: Rushing water, silence
+Mood: Loss, grief
+Veo3 Prompt:
+“Dark cinematic shot of rushing floodwaters filling the frame, fade to black, somber and emotional tone”
+
+Scene 2 – Prevention & Hope
+
+Shot 1:
+Duration: 3s
+Angle / Action: Wide shot
+Visual: Same village, sunny morning
+Mood: Calm, hopeful
+Veo3 Prompt:
+“Wide cinematic shot of peaceful rural Pakistani village, bright sunny morning, children playing, warm realistic lighting”
+
+Shot 2:
+Duration: 4s
+Angle / Action: Close-up
+Visual: Father holding phone with DisasterGuard alert
+Mood: Technology, safety
+Veo3 Prompt:
+“Close-up of father holding smartphone displaying DisasterGuard flood alert, cinematic framing, hopeful mood”
+
+Shot 3:
+Duration: 3s
+Angle / Action: Medium shot
+Visual: Father lifts girl, holds goat
+Mood: Protection, care
+Veo3 Prompt:
+“Medium shot of father lifting toddler girl while carrying baby goat, smiling with relief, cinematic warm light”
+
+Shot 4:
+Duration: 5s
+Angle / Action: Pan shot
+Visual: Villagers evacuating together
+Mood: Community, preparedness
+Veo3 Prompt:
+“Pan shot of villagers evacuating before flood, neighbors helping each other, carrying belongings, organized and calm, cinematic hopeful style”
+
+Shot 5:
+Duration: 4s
+Angle / Action: Close-up
+Visual: Girl hugging goat in father’s arms
+Mood: Relief, safety
+Veo3 Prompt:
+“Close-up of toddler girl hugging her baby goat in father’s arms, emotional relief, heartwarming, cinematic glow”
+
+Shot 6:
+Duration: 3s
+Angle / Action: Wide shot
+Visual: Family on hill, watching village
+Mood: Hope, safety, protection
+Veo3 Prompt:
+“Wide shot of family standing on safe hill with baby goat, watching village below, rainbow in background, hopeful cinematic lighting”
+
+Shot 7:
+Duration: 3s
+Angle / Action: Text overlay
+Visual: Awareness message
+Mood: Inspiration
+Veo3 Prompt:
+“Text overlay on cinematic village scene: ‘DisasterGuard – Protecting lives before disaster strikes.’ inspirational and heartwarming”
+
+Shot 8:
+Duration: 2s
+Angle / Action: Logo & CTA
+Visual: DisasterGuard branding
+Mood: Uplifting
+Veo3 Prompt:
+“End screen with DisasterGuard logo, website link, soft uplifting cinematic background”
